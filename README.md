@@ -4,7 +4,9 @@ Slap battles bob glove farm (Requires Replica glove)
 Supported executors:
 
 **Synapse X (Better)
+
 Krnl 
+
 ScriptWare**
 
 Steps for work:
